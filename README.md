@@ -1,6 +1,8 @@
 # Preliminary Metadata Curation: ACLS Humanities eBook Collection on Fulcrum
 
-READ_ME editing is in process. Please bear with us as we continue to revise this document!
+IMPORTANT:
+
+The editing process for our READ_ME is ongoing. Please bear with us as we continue to revise this document!
 
 
 ## Python Script for Initial Metadata Curation
