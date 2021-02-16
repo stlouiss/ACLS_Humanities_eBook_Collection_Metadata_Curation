@@ -158,7 +158,11 @@ You can contact the primary developer here:
 
 ### Thank you!
 
-* Scott St. Louis (primary developer and secondary co-author of READ_ME documentation)
+* Scott St. Louis (primary code developer, co-lead on manual metadata review for title/volume/edition information, and secondary co-author of READ_ME documentation)
+
 * Rachel Gosch (primary co-author and editor of READ_ME documentation)
+
+* Kelsey O'Rourke (co-lead on manual metadata review for title/volume/edition information)
+
 * Joe Muller (project supervisor)
 
