@@ -100,7 +100,7 @@ The manual review process consists of tasks that require human inspection/judgme
 
 #### Thank you!
 
---- Scott St. Louis (primary developer and documentation co-author)
---- Rachel Gosch (documentation co-author and editor)
---- Joe Muller (project supervisor)
+* Scott St. Louis (primary developer and documentation co-author)
+* Rachel Gosch (documentation co-author and editor)
+* Joe Muller (project supervisor)
 
