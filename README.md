@@ -147,6 +147,11 @@ You will notice that the python_FINAL_output_metadata CSV spreadsheet in our Goo
 The manual review process consists of tasks that require human inspection/judgment.
 
 
+### Questions?
+
+Get in touch via email! stlouiss [AT] umich [DOT] edu
+
+
 ### Thank you!
 
 * Scott St. Louis (primary developer and secondary documentation co-author)
