@@ -99,7 +99,7 @@ Returns a list with values indicating which fm and MARC title values need to be 
 This is a long function, so a step-by-step walkthrough in prose is less likely to be useful than similar walkthroughs might be for the previous functions explained above, which are shorter.
 
 
-### combine_values(uri_list, check_full_titles_for_volume_info, check_copyright_OCR_for_edition_info, check_fm_and_marc_titles_for_differences)
+### combine_values(uri_list, check_full_titles_for_volume_info, check_copyright_ocr_for_edition_info, check_fm_and_marc_titles_for_differences)
 
 Creates a list of check values corresponding to object URIs. These values reflect the necessity of manual review for volume information, edition information, and title differences, as established by previous functions.
 
