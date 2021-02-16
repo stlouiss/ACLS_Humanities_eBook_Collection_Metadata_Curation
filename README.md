@@ -17,7 +17,7 @@ The editing process for our READ_ME is ongoing. Please bear with us as we contin
 ## What does the Python script do?
 
 * The main goal of this Python script is to return a CSV file that contains a list of curated HEB metadata records ready for manual review.
- * The final CSV documents where manual review is required for title, volume, and/or edition information in a given metadata record. See docstrings and code in srs_metadata_cleaning.py
+ * The final CSV indicates whether manual review is required for title, volume, and/or edition information for a given metadata record. See docstrings and code in srs_metadata_cleaning.py
     
     
 ## Functions
