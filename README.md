@@ -149,7 +149,11 @@ The manual review process consists of tasks that require human inspection/judgme
 
 ### Questions?
 
-Get in touch via email! stlouiss [AT] umich [DOT] edu
+Get in touch via email! 
+
+You can contact the primary developer here:
+
+* stlouiss [AT] umich [DOT] edu
 
 
 ### Thank you!
