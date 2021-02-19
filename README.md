@@ -2,7 +2,7 @@
 
 ![Python logo](./python_logo.JPG)
 
-###### To learn more about the Fulcrum project at Michigan Publishing, [please click here.](https://www.fulcrum.org/)
+##### To learn more about the Fulcrum project at Michigan Publishing, [please click here.](https://www.fulcrum.org/)
 
 IMPORTANT:
 
