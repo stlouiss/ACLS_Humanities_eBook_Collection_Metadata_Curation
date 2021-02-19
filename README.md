@@ -1,6 +1,6 @@
 # Preliminary Metadata Curation: ACLS Humanities eBook Collection on Fulcrum
 
-![Python logo](./python_logo.JPG)
+![Python logo](./python_logo.JPG)(https://www.python.org/)
 
 ### To learn more about the Fulcrum project at Michigan Publishing, [please click here.](https://www.fulcrum.org/)
 
