@@ -2,8 +2,6 @@
 
 [![Python logo](./python_logo.JPG)](https://www.python.org/)
 
-[![name](link to image on GH)](link to your URL)
-
 ### To learn more about the Fulcrum project at Michigan Publishing, [please click here.](https://www.fulcrum.org/)
 
 IMPORTANT:
