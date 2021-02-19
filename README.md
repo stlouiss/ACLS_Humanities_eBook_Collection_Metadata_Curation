@@ -170,3 +170,5 @@ You can contact the primary developer here:
 
 * Joe Muller (project supervisor)
 
+### [Michigan Publishing, University of Michigan Library](https://publishing.umich.edu/)
+
