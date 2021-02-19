@@ -70,7 +70,7 @@ Returns list with values indicating which titles need to be checked for volume i
 
 The function creates two new list objects, full_title_list and check_full_titles_for_volume_info. 
 
-First, the function cleans the items in row[1] of list_of_row_lists and cleans them through an "for" statement, creating objects for clean_full_title, cleaner_full_title, and cleanest_full_title. The cleanest_full_title object is appended to the full_title_list object. 
+First, the function cleans the items in row[1] of list_of_row_lists and cleans them through a "for" statement, creating objects for clean_full_title, cleaner_full_title, and cleanest_full_title. The cleanest_full_title object is appended to the full_title_list object. 
 
 Next, an if/else/elif statement assigns “YES” or “N” indicators to the objects in full_title_list. The if/else/elif statement checks to see if the objects in the list contain the keywords “volume” or “vol.”, and creates a new list object (check_for_volume_info) to which the value “YES” or “N” is assigned depending on if each title contains a keyword value or not.
 
