@@ -1,5 +1,7 @@
 # Preliminary Metadata Curation: ACLS Humanities eBook Collection on Fulcrum
 
+![Python logo](./python_logo.JPG)
+
 IMPORTANT:
 
 The editing process for our READ_ME is ongoing. Please bear with us as we continue to revise this document!
