@@ -27,10 +27,6 @@ The editing process for our READ_ME is ongoing. Please bear with us as we contin
 ## Functions
 
 
-### read_csv(filename)
-Reads the input CSV file into the Python script.
-  
-  
 ### read_csv_with_pandas(filename)
 Opens the input CSV file into a DataFrame object, drops all columns except those specified as output headers, and converts the DataFrame into a list of row lists that will be used in later functions detailed below.
   
