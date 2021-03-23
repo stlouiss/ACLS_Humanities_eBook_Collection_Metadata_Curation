@@ -6,7 +6,7 @@
 
 [![Fulcrum logo](./fulcrum_logo.png)](https://www.fulcrum.org/)
 
-## Python Script for Initial Metadata Curation
+## Python Script for Preliminary Metadata Curation
 
 * Input spreadsheet: “2020-09-23_11-55-25_breakout_title.csv”
   * Be sure to place the input spreadsheet in the same directory on your machine as the Python code. Doing so is necessary in order for the script to run correctly.
