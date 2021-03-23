@@ -1,4 +1,4 @@
-# Preliminary Metadata Curation: American Council of Learned Societies (ACLS) Humanities eBook Collection on Fulcrum
+# Metadata Curation: American Council of Learned Societies (ACLS) Humanities eBook Collection on Fulcrum
 
 [![Python logo](./python_logo.JPG)](https://www.python.org/)
 
