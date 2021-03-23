@@ -1,4 +1,4 @@
-# Preliminary Metadata Curation: ACLS Humanities eBook Collection on Fulcrum
+# Preliminary Metadata Curation: American Council of Learned Societies (ACLS) Humanities eBook Collection on Fulcrum
 
 [![Python logo](./python_logo.JPG)](https://www.python.org/)
 
@@ -17,7 +17,7 @@
 
 ## What does the Python script do?
 
-* The main goal of this Python script is to return a CSV file that contains a list of curated HEB metadata records ready for manual review.
+* The main goal of this Python script is to return a CSV file that contains a list of curated ACLS Humanities eBook Collection metadata records ready for manual review.
  * The final CSV indicates whether manual review is required for title, volume, and/or edition information for a given metadata record. See docstrings and code in srs_metadata_cleaning.py
     
     
