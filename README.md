@@ -165,5 +165,3 @@ You can contact the primary developer here:
 
 ### [Michigan Publishing, University of Michigan Library](https://publishing.umich.edu/)
 ### Fall 2020
-
-[![University of Michigan Library logo](./umich_library_logo.png)](https://www.publishing.umich.edu/)
