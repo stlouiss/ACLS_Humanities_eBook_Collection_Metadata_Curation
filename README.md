@@ -4,7 +4,7 @@
 
 ### To learn more about the Fulcrum project at Michigan Publishing, [please click here.](https://www.fulcrum.org/)
 
-[![Fulcrum logo](./fulcrum_logo.jpeg)](https://www.fulcrum.org/)
+[![Fulcrum logo](./fulcrum_logo.png)](https://www.fulcrum.org/)
 
 ## Python Script for Initial Metadata Curation
 
