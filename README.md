@@ -9,12 +9,12 @@
 ## Python Script for Preliminary Metadata Curation
 
 * Input spreadsheet: “2020-09-23_11-55-25_breakout_title.csv”
-  * Not available in this GitHub repository due to licensing restrictions.
+  * Not available in this GitHub repository due to licensing restrictions on some of the data.
   * Be sure to place the input spreadsheet in the same directory on your machine as the Python code. Doing so is necessary in order for the script to run correctly.
 
 * Final output spreadsheet: “python_FINAL_output_metadata.csv”
   * (Ignore other output spreadsheets; these are processing materials.)
-  * No output spreadsheets are available in this GitHub repository due to licensing restrictions.
+  * No output spreadsheets are available in this GitHub repository due to licensing restrictions on some of the data.
 
 
 ## What does the Python script do?
